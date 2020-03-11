@@ -33,3 +33,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+##Screenshot 
+![Screenshot of the Project] (https://github.com/mmejares/homework1/blob/master/assets/images/screenshot%20of%20horiseon.PNG)
+
