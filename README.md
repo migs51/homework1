@@ -1,13 +1,13 @@
-#Refactored Business Website for Horiseon
+# Refactored Business Website for Horiseon
 >Refactor of a Marketing page to be more SEO friendly
 
 This was a homework assignment where we refactored the HTML/CSS of a marketing website.
 
-##Completed
+## Completed
 
-*Combined CSS Classes - Combined classes a b and c
-*Improved accessibility by adding alt tags
-*Improved semantics of html elements to optimzize SEO for site
+* Combined CSS Classes - Combined classes a b and c
+* Improved accessibility by adding alt tags
+* Improved semantics of html elements to optimzize SEO for site
 
 ## User Story
 
@@ -33,6 +33,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-##Screenshot 
-![Screenshot of the Project] (https://github.com/mmejares/homework1/blob/master/assets/images/screenshot%20of%20horiseon.PNG)
+## Screenshot 
+![Screenshot of the Project](https://github.com/mmejares/homework1/blob/master/assets/images/screenshot%20of%20horiseon.PNG)
 
