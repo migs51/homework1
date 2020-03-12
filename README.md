@@ -5,9 +5,11 @@ This was a homework assignment where we refactored the HTML/CSS of a marketing w
 
 ## Completed
 
-* Combined CSS Classes - Combined classes a b and c
+* Combined CSS Classes - Combined a variety of different classes to avoid redundancy.
 * Improved accessibility by adding alt tags
 * Improved semantics of html elements to optimzize SEO for site
+* Added comments to HTML for easier maintanance
+
 
 ## User Story
 
